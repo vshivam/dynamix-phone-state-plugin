@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/org.ambientdynamix.iml" filepath="$PROJECT_DIR$/org.ambientdynamix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.ambientdynamix-Core/org.ambientdynamix-Core.iml" filepath="$PROJECT_DIR$/org.ambientdynamix-Core/org.ambientdynamix-Core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.ambientdynamix-Datatypes/org.ambientdynamix-Datatypes.iml" filepath="$PROJECT_DIR$/org.ambientdynamix-Datatypes/org.ambientdynamix-Datatypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.ambientdynamix-TestApp/org.ambientdynamix-TestApp.iml" filepath="$PROJECT_DIR$/org.ambientdynamix-TestApp/org.ambientdynamix-TestApp.iml" />
+    </modules>
+  </component>
+</project>
+
