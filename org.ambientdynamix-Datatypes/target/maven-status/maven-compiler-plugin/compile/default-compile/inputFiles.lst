@@ -1,9 +1,7 @@
-/home/shivam/dynamix/PhoneState/org.ambientdynamix/org.ambientdynamix-Datatypes/src/main/java/org/ambientdynamix/contextplugins/MyNetworkInfo.java
 /home/shivam/dynamix/PhoneState/org.ambientdynamix/org.ambientdynamix-Datatypes/src/main/java/org/ambientdynamix/contextplugins/ScanResultCustom.java
 /home/shivam/dynamix/PhoneState/org.ambientdynamix/org.ambientdynamix-Datatypes/src/main/java/org/ambientdynamix/contextplugins/MyWiFiInfo.java
 /home/shivam/dynamix/PhoneState/org.ambientdynamix/org.ambientdynamix-Datatypes/src/main/java/org/ambientdynamix/contextplugins/MyPairedBluetoothInfo.java
 /home/shivam/dynamix/PhoneState/org.ambientdynamix/org.ambientdynamix-Datatypes/src/main/java/org/ambientdynamix/contextplugins/IMyBluetoothInfo.java
-/home/shivam/dynamix/PhoneState/org.ambientdynamix/org.ambientdynamix-Datatypes/src/main/java/org/ambientdynamix/contextplugins/IMyNetworkInfo.java
-/home/shivam/dynamix/PhoneState/org.ambientdynamix/org.ambientdynamix-Datatypes/src/main/java/org/ambientdynamix/contextplugins/IMyWiFiInfo.java
 /home/shivam/dynamix/PhoneState/org.ambientdynamix/org.ambientdynamix-Datatypes/src/main/java/org/ambientdynamix/contextplugins/IMyPairedBluetoothInfo.java
+/home/shivam/dynamix/PhoneState/org.ambientdynamix/org.ambientdynamix-Datatypes/src/main/java/org/ambientdynamix/contextplugins/IMyWiFiInfo.java
 /home/shivam/dynamix/PhoneState/org.ambientdynamix/org.ambientdynamix-Datatypes/src/main/java/org/ambientdynamix/contextplugins/MyBluetoothInfo.java

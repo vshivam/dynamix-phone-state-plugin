@@ -86,10 +86,14 @@ public class BindDynamixActivity extends Activity {
                                         if (result.getContextType().equals(MyPairedBluetoothInfo.CONTEXT_TYPE)) {
                                             IMyPairedBluetoothInfo info = (IMyPairedBluetoothInfo) result.getIContextInfo();
                                             Log.i(TAG, info.getStringRepresentation("text/plain"));
-                                        } else if (result.getContextType().equals(MyNetworkInfo.CONTEXT_TYPE)) {
+                                        }
+
+                                        /*
+                                        else if (result.getContextType().equals(MyNetworkInfo.CONTEXT_TYPE)) {
                                             MyNetworkInfo info = (MyNetworkInfo) result.getIContextInfo();
                                             Log.i(TAG, info.getStringRepresentation("text/plain"));
                                         }
+                                        */
                                         super.onSuccess(result);
                                     }
                                 });

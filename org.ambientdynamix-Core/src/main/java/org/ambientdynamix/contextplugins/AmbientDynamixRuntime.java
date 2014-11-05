@@ -21,7 +21,6 @@ import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
 import android.content.IntentFilter;
-import android.net.ConnectivityManager;
 import android.net.wifi.ScanResult;
 import android.net.wifi.WifiManager;
 import android.os.Bundle;
@@ -182,13 +181,16 @@ public class AmbientDynamixRuntime extends ContextPluginRuntime {
                 }
                 sendContextEvent(requestId, new MyPairedBluetoothInfo(pairedDevicesList), PrivacyRiskLevel.LOW);
             }
-        } else if (contextType.equals(MyNetworkInfo.CONTEXT_TYPE)) {
+        }
+        /*
+        else if (contextType.equals(MyNetworkInfo.CONTEXT_TYPE)) {
             Log.e(TAG, "New context request received >> " + MyNetworkInfo.CONTEXT_TYPE);
             ConnectivityManager mConnectivityManager = (ConnectivityManager) context.getSystemService(Context.CONNECTIVITY_SERVICE);
             MyNetworkInfo info = new MyNetworkInfo(mConnectivityManager.getActiveNetworkInfo());
             Log.i(TAG, info.getStringRepresentation("text/plain"));
             sendContextEvent(requestId, info, PrivacyRiskLevel.LOW);
         }
+        */
     }
 
     @Override
