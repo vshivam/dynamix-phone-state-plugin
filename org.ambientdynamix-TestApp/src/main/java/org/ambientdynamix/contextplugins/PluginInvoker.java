@@ -35,6 +35,7 @@ public class PluginInvoker {
         addPluginInvocation("org.ambientdynamix.contextplugins", "org.ambientdynamix.contextplugins.phonestate.bluetooth", null);
         addPluginInvocation("org.ambientdynamix.contextplugins", "org.ambientdynamix.contextplugins.phonestate.wifi", null);
         addPluginInvocation("org.ambientdynamix.contextplugins", "org.ambientdynamix.contextplugins.phonestate.paired", null);
+        addPluginInvocation("org.ambientdynamix.contextplugins", "org.ambientdynamix.contextplugins.phonestate.network", null);
     }
 
 

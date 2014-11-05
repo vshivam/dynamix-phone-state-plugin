@@ -1,9 +1,12 @@
-org/ambientdynamix/contextplugins/MyWiFiInfo$1.class
-org/ambientdynamix/contextplugins/MyPairedBluetoothInfo$1.class
-org/ambientdynamix/contextplugins/MyPairedBluetoothInfo.class
+org/ambientdynamix/contextplugins/MyNetworkInfo$1.class
 org/ambientdynamix/contextplugins/MyWiFiInfo.class
 org/ambientdynamix/contextplugins/IMyBluetoothInfo.class
 org/ambientdynamix/contextplugins/IMyPairedBluetoothInfo.class
+org/ambientdynamix/contextplugins/MyWiFiInfo$1.class
+org/ambientdynamix/contextplugins/MyNetworkInfo.class
+org/ambientdynamix/contextplugins/MyPairedBluetoothInfo$1.class
+org/ambientdynamix/contextplugins/MyPairedBluetoothInfo.class
+org/ambientdynamix/contextplugins/IMyNetworkInfo.class
 org/ambientdynamix/contextplugins/IMyWiFiInfo.class
 org/ambientdynamix/contextplugins/ScanResultCustom.class
 org/ambientdynamix/contextplugins/MyBluetoothInfo$1.class

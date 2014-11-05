@@ -82,8 +82,12 @@ public class BindDynamixActivity extends Activity {
                                 pluginInvocation.getContextRequestType(), new ContextRequestCallback() {
                                     @Override
                                     public void onSuccess(ContextResult result) throws RemoteException {
+                                        Log.i(TAG, "Context Request Callback Success for >> " + result.getContextType());
                                         if (result.getContextType().equals(MyPairedBluetoothInfo.CONTEXT_TYPE)) {
                                             IMyPairedBluetoothInfo info = (IMyPairedBluetoothInfo) result.getIContextInfo();
+                                            Log.i(TAG, info.getStringRepresentation("text/plain"));
+                                        } else if (result.getContextType().equals(MyNetworkInfo.CONTEXT_TYPE)) {
+                                            MyNetworkInfo info = (MyNetworkInfo) result.getIContextInfo();
                                             Log.i(TAG, info.getStringRepresentation("text/plain"));
                                         }
                                         super.onSuccess(result);
