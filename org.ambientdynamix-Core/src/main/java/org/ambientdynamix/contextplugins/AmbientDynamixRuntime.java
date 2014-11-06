@@ -144,7 +144,6 @@ public class AmbientDynamixRuntime extends ContextPluginRuntime {
 
     @Override
     public void handleContextRequest(UUID requestId, String contextType) {
-        Log.i(TAG, "New context request >> " + contextType);
         if (contextType.equals(MyBluetoothInfo.CONTEXT_TYPE)) {
             BluetoothAdapter mBluetoothAdapter = BluetoothAdapter.getDefaultAdapter();
             if (mBluetoothAdapter == null) {
@@ -218,7 +217,8 @@ public class AmbientDynamixRuntime extends ContextPluginRuntime {
             bluetoothListeners.add(listenerInfo.getListenerId());
         } else if (listenerInfo.getContextType().equals(MyWiFiInfo.CONTEXT_TYPE)) {
             wifiListeners.add(listenerInfo.getListenerId());
-        }
+        } else
+            super.addContextlistener(listenerInfo);
         return true;
     }
 

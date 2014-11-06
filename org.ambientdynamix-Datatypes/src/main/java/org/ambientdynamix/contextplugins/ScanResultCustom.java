@@ -1,9 +1,34 @@
 package org.ambientdynamix.contextplugins;
 
+import android.os.Parcel;
+import android.os.Parcelable;
+
 /**
  * Created by shivam on 11/4/14.
  */
-public class ScanResultCustom {
+public class ScanResultCustom implements Parcelable {
+
+    public static final Parcelable.Creator<ScanResultCustom> CREATOR = new Parcelable.Creator<ScanResultCustom>() {
+        public ScanResultCustom createFromParcel(Parcel in) {
+            return new ScanResultCustom(in);
+        }
+
+        public ScanResultCustom[] newArray(int size) {
+            return new ScanResultCustom[size];
+        }
+    };
+
+    public ScanResultCustom(Parcel in) {
+        BSSID = in.readString();
+        SSID = in.readString();
+        capabilities = in.readString();
+        frequency = in.readInt();
+        level = in.readInt();
+    }
+
+    public ScanResultCustom() {
+
+    }
 
     /**
      * The address of the access point.
@@ -70,5 +95,19 @@ public class ScanResultCustom {
     public String toString() {
         return "BSSID : " + BSSID + "\n" + "SSID : " + SSID + "\n"
                 + "Capabilities : " + capabilities + "\n" + "Frequency : " + frequency + "\n" + "level : " + level;
+    }
+
+    @Override
+    public void writeToParcel(Parcel parcel, int i) {
+        parcel.writeString(BSSID);
+        parcel.writeString(SSID);
+        parcel.writeString(capabilities);
+        parcel.writeInt(frequency);
+        parcel.writeInt(level);
+    }
+
+    @Override
+    public int describeContents() {
+        return 0;
     }
 }

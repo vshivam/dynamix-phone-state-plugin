@@ -20,6 +20,9 @@
       </filter>
     </filters>
   </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="INFO" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="001cae53-a14a-4cae-984c-595e64a43cb9" name="Default" comment="" />
     <ignored path="org.ambientdynamix.iws" />
@@ -43,11 +46,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="AmbientDynamixRuntime.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="AmbientDynamixRuntime.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/org.ambientdynamix-Core/src/main/java/org/ambientdynamix/contextplugins/AmbientDynamixRuntime.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="2065" max-vertical-offset="3438">
-              <caret line="179" column="75" selection-start-line="179" selection-start-column="75" selection-end-line="179" selection-end-column="75" />
+            <state vertical-scroll-proportion="0.5570839" vertical-offset="0" max-vertical-offset="2910">
+              <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+              <folding>
+                <element signature="e#2448#3849#0" expanded="true" />
+                <element signature="e#2956#2974#0" expanded="true" />
+                <element signature="e#3842#3843#0" expanded="true" />
+                <element signature="e#7537#7554#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyBluetoothInfo.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/org.ambientdynamix-Datatypes/src/main/java/org/ambientdynamix/contextplugins/MyBluetoothInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1500">
+              <caret line="37" column="26" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -56,21 +74,51 @@
       <file leaf-file-name="org.ambientdynamixDescriptor.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/org.ambientdynamix-Core/src/main/resources/org.ambientdynamixDescriptor.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="756">
-              <caret line="30" column="75" selection-start-line="30" selection-start-column="75" selection-end-line="30" selection-end-column="75" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="78" max-vertical-offset="630">
+              <caret line="23" column="75" selection-start-line="23" selection-start-column="75" selection-end-line="23" selection-end-column="75" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BindDynamixActivity.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ScanResultCustom.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/org.ambientdynamix-Datatypes/src/main/java/org/ambientdynamix/contextplugins/ScanResultCustom.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="96" max-vertical-offset="1665">
+              <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#373#374#0" expanded="true" />
+                <element signature="e#428#429#0" expanded="true" />
+                <element signature="e#484#485#0" expanded="true" />
+                <element signature="e#541#542#0" expanded="true" />
+                <element signature="e#1394#1395#0" expanded="true" />
+                <element signature="e#1422#1423#0" expanded="true" />
+                <element signature="e#1464#1465#0" expanded="true" />
+                <element signature="e#1498#1499#0" expanded="true" />
+                <element signature="e#1529#1530#0" expanded="true" />
+                <element signature="e#1556#1557#0" expanded="true" />
+                <element signature="e#1596#1597#0" expanded="true" />
+                <element signature="e#1628#1629#0" expanded="true" />
+                <element signature="e#1667#1668#0" expanded="true" />
+                <element signature="e#1702#1703#0" expanded="true" />
+                <element signature="e#1758#1759#0" expanded="true" />
+                <element signature="e#1806#1807#0" expanded="true" />
+                <element signature="e#2630#2631#0" expanded="true" />
+                <element signature="e#2654#2655#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BindDynamixActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/org.ambientdynamix-TestApp/src/main/java/org/ambientdynamix/contextplugins/BindDynamixActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.79297596" vertical-offset="2145" max-vertical-offset="6102">
-              <caret line="175" column="21" selection-start-line="175" selection-start-column="21" selection-end-line="175" selection-end-column="21" />
+            <state vertical-scroll-proportion="-142.5" vertical-offset="450" max-vertical-offset="5115">
+              <caret line="74" column="57" selection-start-line="74" selection-start-column="57" selection-end-line="74" selection-end-column="57" />
               <folding>
-                <element signature="e#3378#4646#0" expanded="true" />
-                <element signature="e#4611#4612#0" expanded="true" />
+                <element signature="e#8199#9953#0" expanded="true" />
+                <element signature="e#9946#9947#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -79,8 +127,8 @@
       <file leaf-file-name="PluginInvoker.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/org.ambientdynamix-TestApp/src/main/java/org/ambientdynamix/contextplugins/PluginInvoker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="864" max-vertical-offset="2466">
-              <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="1680">
+              <caret line="37" column="120" selection-start-line="37" selection-start-column="113" selection-end-line="37" selection-end-column="120" />
               <folding />
             </state>
           </provider>
@@ -89,7 +137,7 @@
       <file leaf-file-name="IMyBluetoothInfo.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/org.ambientdynamix-Datatypes/src/main/java/org/ambientdynamix/contextplugins/IMyBluetoothInfo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="702">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
               <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
               <folding />
             </state>
@@ -99,9 +147,17 @@
       <file leaf-file-name="MyWiFiInfo.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/org.ambientdynamix-Datatypes/src/main/java/org/ambientdynamix/contextplugins/MyWiFiInfo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="1710">
-              <caret line="15" column="31" selection-start-line="15" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding />
+            <state vertical-scroll-proportion="0.0" vertical-offset="336" max-vertical-offset="1185">
+              <caret line="35" column="11" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
+              <folding>
+                <element signature="e#1332#1333#0" expanded="true" />
+                <element signature="e#1367#1368#0" expanded="true" />
+                <element signature="e#1429#1430#0" expanded="true" />
+                <element signature="e#1477#1478#0" expanded="true" />
+                <element signature="e#1593#1601#0" expanded="true" />
+                <element signature="e#2254#2255#0" expanded="true" />
+                <element signature="e#2296#2297#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -109,8 +165,18 @@
       <file leaf-file-name="MyPairedBluetoothInfo.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/org.ambientdynamix-Datatypes/src/main/java/org/ambientdynamix/contextplugins/MyPairedBluetoothInfo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1620" max-vertical-offset="1782">
-              <caret line="90" column="5" selection-start-line="88" selection-start-column="3" selection-end-line="90" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1155">
+              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IMyPairedBluetoothInfo.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/org.ambientdynamix-Datatypes/src/main/java/org/ambientdynamix/contextplugins/IMyPairedBluetoothInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -131,7 +197,6 @@
         <option value="$PROJECT_DIR$/org.ambientdynamix-Datatypes/src/main/java/org/ambientdynamix/contextplugins/MyBatteryLevelInfo.java" />
         <option value="$PROJECT_DIR$/org.ambientdynamix-TestApp/target/generated-sources/r/org/ambientdynamix/contextplugins/BuildConfig.java" />
         <option value="$PROJECT_DIR$/org.ambientdynamix-Datatypes/src/main/java/org/ambientdynamix/contextplugins/IMyWiFiInfo.java" />
-        <option value="$PROJECT_DIR$/org.ambientdynamix-Datatypes/src/main/java/org/ambientdynamix/contextplugins/ScanResultCustom.java" />
         <option value="$PROJECT_DIR$/org.ambientdynamix-Datatypes/src/main/java/org/ambientdynamix/contextplugins/IMyBluetoothInfo.java" />
         <option value="$PROJECT_DIR$/org.ambientdynamix-Datatypes/src/main/java/org/ambientdynamix/contextplugins/IMyPairedBluetoothInfo.java" />
         <option value="$PROJECT_DIR$/org.ambientdynamix-Datatypes/src/main/java/org/ambientdynamix/contextplugins/MyWiFiInfo.java" />
@@ -139,11 +204,12 @@
         <option value="$PROJECT_DIR$/org.ambientdynamix-Datatypes/src/main/java/org/ambientdynamix/contextplugins/MyPairedBluetoothInfo.java" />
         <option value="$PROJECT_DIR$/org.ambientdynamix-Core/src/main/resources/org.ambientdynamixDescriptor.xml" />
         <option value="$PROJECT_DIR$/org.ambientdynamix-Datatypes/src/main/java/org/ambientdynamix/contextplugins/IMyNetworkInfo.java" />
-        <option value="$PROJECT_DIR$/org.ambientdynamix-TestApp/src/main/java/org/ambientdynamix/contextplugins/PluginInvoker.java" />
         <option value="$PROJECT_DIR$/org.ambientdynamix-Datatypes/src/main/java/org/ambientdynamix/contextplugins/MyNetworkInfo.java" />
         <option value="$PROJECT_DIR$/org.ambientdynamix-Datatypes/src/main/java/org/ambientdynamix/contextplugins/NetworkInfoCustom.java" />
-        <option value="$PROJECT_DIR$/org.ambientdynamix-Core/src/main/java/org/ambientdynamix/contextplugins/AmbientDynamixRuntime.java" />
         <option value="$PROJECT_DIR$/org.ambientdynamix-TestApp/src/main/java/org/ambientdynamix/contextplugins/BindDynamixActivity.java" />
+        <option value="$PROJECT_DIR$/org.ambientdynamix-TestApp/src/main/java/org/ambientdynamix/contextplugins/PluginInvoker.java" />
+        <option value="$PROJECT_DIR$/org.ambientdynamix-Datatypes/src/main/java/org/ambientdynamix/contextplugins/ScanResultCustom.java" />
+        <option value="$PROJECT_DIR$/org.ambientdynamix-Core/src/main/java/org/ambientdynamix/contextplugins/AmbientDynamixRuntime.java" />
       </list>
     </option>
   </component>
@@ -248,10 +314,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1680" />
+    <option name="x" value="65" />
     <option name="y" value="24" />
-    <option name="width" value="1920" />
-    <option name="height" value="1056" />
+    <option name="width" value="1615" />
+    <option name="height" value="1026" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -279,6 +345,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -479,8 +547,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -692,7 +758,7 @@
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="ToolWindowManager">
-    <frame x="1680" y="24" width="1920" height="1056" extended-state="6" />
+    <frame x="65" y="24" width="1615" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -707,13 +773,13 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.365625" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.08943965" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1782284" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21287444" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19210246" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41770834" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2294455" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41753653" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32903227" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -747,21 +813,58 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/org.ambientdynamix-Datatypes/src/main/java/org/ambientdynamix/contextplugins/MyWiFiInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="1425">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#1332#1333#0" expanded="true" />
+            <element signature="e#1367#1368#0" expanded="true" />
+            <element signature="e#1429#1430#0" expanded="true" />
+            <element signature="e#1477#1478#0" expanded="true" />
+            <element signature="e#1593#1601#0" expanded="true" />
+            <element signature="e#2254#2255#0" expanded="true" />
+            <element signature="e#2296#2297#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/org.ambientdynamix-Datatypes/src/main/java/org/ambientdynamix/contextplugins/MyPairedBluetoothInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1350" max-vertical-offset="1485">
+          <caret line="90" column="5" selection-start-line="88" selection-start-column="3" selection-end-line="90" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/org.ambientdynamix-Core/src/main/java/org/ambientdynamix/contextplugins/AmbientDynamixRuntime.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="3312" max-vertical-offset="4104">
-          <caret line="184" column="44" selection-start-line="184" selection-start-column="44" selection-end-line="184" selection-end-column="44" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4140">
+          <caret line="179" column="75" selection-start-line="179" selection-start-column="75" selection-end-line="179" selection-end-column="75" />
+          <folding>
+            <element signature="e#2448#3849#0" expanded="true" />
+            <element signature="e#2956#2974#0" expanded="true" />
+            <element signature="e#3842#3843#0" expanded="true" />
+            <element signature="e#7537#7554#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/org.ambientdynamix-Core/src/main/resources/org.ambientdynamixDescriptor.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="756">
+          <caret line="30" column="75" selection-start-line="30" selection-start-column="75" selection-end-line="30" selection-end-column="75" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/org.ambientdynamix-TestApp/src/main/java/org/ambientdynamix/contextplugins/BindDynamixActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1278" max-vertical-offset="6696">
-          <caret line="71" column="11" selection-start-line="71" selection-start-column="11" selection-end-line="71" selection-end-column="11" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6408">
+          <caret line="175" column="21" selection-start-line="175" selection-start-column="21" selection-end-line="175" selection-end-column="21" />
           <folding>
-            <element signature="e#3378#4646#0" expanded="true" />
-            <element signature="e#4611#4612#0" expanded="true" />
+            <element signature="e#8199#9953#0" expanded="true" />
+            <element signature="e#9946#9947#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -786,7 +889,79 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="1710">
           <caret line="15" column="31" selection-start-line="15" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#1332#1333#0" expanded="true" />
+            <element signature="e#1367#1368#0" expanded="true" />
+            <element signature="e#1429#1430#0" expanded="true" />
+            <element signature="e#1477#1478#0" expanded="true" />
+            <element signature="e#1593#1601#0" expanded="true" />
+            <element signature="e#2254#2255#0" expanded="true" />
+            <element signature="e#2296#2297#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/org.ambientdynamix-Datatypes/src/main/java/org/ambientdynamix/contextplugins/MyPairedBluetoothInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1620" max-vertical-offset="1782">
+          <caret line="90" column="5" selection-start-line="88" selection-start-column="3" selection-end-line="90" selection-end-column="5" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/org.ambientdynamix-Core/src/main/java/org/ambientdynamix/contextplugins/AmbientDynamixRuntime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3312" max-vertical-offset="4104">
+          <caret line="184" column="44" selection-start-line="184" selection-start-column="44" selection-end-line="184" selection-end-column="44" />
+          <folding>
+            <element signature="e#2448#3849#0" expanded="true" />
+            <element signature="e#2956#2974#0" expanded="true" />
+            <element signature="e#3842#3843#0" expanded="true" />
+            <element signature="e#7537#7554#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/org.ambientdynamix-TestApp/src/main/java/org/ambientdynamix/contextplugins/BindDynamixActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1278" max-vertical-offset="6696">
+          <caret line="71" column="11" selection-start-line="71" selection-start-column="11" selection-end-line="71" selection-end-column="11" />
+          <folding>
+            <element signature="e#8199#9953#0" expanded="true" />
+            <element signature="e#9946#9947#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/org.ambientdynamix-TestApp/src/main/java/org/ambientdynamix/contextplugins/PluginInvoker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="864" max-vertical-offset="2466">
+          <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/org.ambientdynamix-Datatypes/src/main/java/org/ambientdynamix/contextplugins/IMyBluetoothInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="702">
+          <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/org.ambientdynamix-Datatypes/src/main/java/org/ambientdynamix/contextplugins/MyWiFiInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="1710">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#1332#1333#0" expanded="true" />
+            <element signature="e#1367#1368#0" expanded="true" />
+            <element signature="e#1429#1430#0" expanded="true" />
+            <element signature="e#1477#1478#0" expanded="true" />
+            <element signature="e#1593#1601#0" expanded="true" />
+            <element signature="e#2254#2255#0" expanded="true" />
+            <element signature="e#2296#2297#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -802,7 +977,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1656" max-vertical-offset="3978">
           <caret line="141" column="33" selection-start-line="141" selection-start-column="33" selection-end-line="141" selection-end-column="33" />
-          <folding />
+          <folding>
+            <element signature="e#2448#3849#0" expanded="true" />
+            <element signature="e#2956#2974#0" expanded="true" />
+            <element signature="e#3842#3843#0" expanded="true" />
+            <element signature="e#7537#7554#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -810,7 +990,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1134" max-vertical-offset="2196">
           <caret line="63" column="32" selection-start-line="63" selection-start-column="20" selection-end-line="63" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -819,8 +998,8 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="998" max-vertical-offset="6624">
           <caret line="61" column="36" selection-start-line="61" selection-start-column="36" selection-end-line="61" selection-end-column="36" />
           <folding>
-            <element signature="e#3378#4646#0" expanded="true" />
-            <element signature="e#4611#4612#0" expanded="true" />
+            <element signature="e#8199#9953#0" expanded="true" />
+            <element signature="e#9946#9947#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -853,7 +1032,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1278" max-vertical-offset="1710">
           <caret line="71" column="22" selection-start-line="71" selection-start-column="22" selection-end-line="71" selection-end-column="22" />
-          <folding />
+          <folding>
+            <element signature="e#1332#1333#0" expanded="true" />
+            <element signature="e#1367#1368#0" expanded="true" />
+            <element signature="e#1429#1430#0" expanded="true" />
+            <element signature="e#1477#1478#0" expanded="true" />
+            <element signature="e#1593#1601#0" expanded="true" />
+            <element signature="e#2254#2255#0" expanded="true" />
+            <element signature="e#2296#2297#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -869,7 +1056,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2646">
           <caret line="124" column="29" selection-start-line="124" selection-start-column="29" selection-end-line="124" selection-end-column="29" />
-          <folding />
+          <folding>
+            <element signature="e#2448#3849#0" expanded="true" />
+            <element signature="e#2956#2974#0" expanded="true" />
+            <element signature="e#3842#3843#0" expanded="true" />
+            <element signature="e#7537#7554#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -878,8 +1070,8 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="576" max-vertical-offset="6930">
           <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
           <folding>
-            <element signature="e#3378#4646#0" expanded="true" />
-            <element signature="e#4611#4612#0" expanded="true" />
+            <element signature="e#8199#9953#0" expanded="true" />
+            <element signature="e#9946#9947#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -896,7 +1088,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1044" max-vertical-offset="1728">
           <caret line="58" column="31" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="31" />
-          <folding />
+          <folding>
+            <element signature="e#1332#1333#0" expanded="true" />
+            <element signature="e#1367#1368#0" expanded="true" />
+            <element signature="e#1429#1430#0" expanded="true" />
+            <element signature="e#1477#1478#0" expanded="true" />
+            <element signature="e#1593#1601#0" expanded="true" />
+            <element signature="e#2254#2255#0" expanded="true" />
+            <element signature="e#2296#2297#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -911,7 +1111,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="2028" max-vertical-offset="3078">
           <caret line="136" column="22" selection-start-line="136" selection-start-column="22" selection-end-line="136" selection-end-column="22" />
-          <folding />
+          <folding>
+            <element signature="e#2448#3849#0" expanded="true" />
+            <element signature="e#2956#2974#0" expanded="true" />
+            <element signature="e#3842#3843#0" expanded="true" />
+            <element signature="e#7537#7554#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -926,7 +1131,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="1332">
           <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -934,7 +1138,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="414" max-vertical-offset="522">
           <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -965,7 +1168,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.66589326" vertical-offset="470" max-vertical-offset="1332">
           <caret line="58" column="25" selection-start-line="58" selection-start-column="25" selection-end-line="58" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -984,13 +1186,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/org.ambientdynamix-Datatypes/src/main/java/org/ambientdynamix/contextplugins/IMyWiFiInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21428572" vertical-offset="0" max-vertical-offset="756">
-          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/google/android/android/2.2.1/android-2.2.1.jar!/android/os/RemoteException.class">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.14754099" vertical-offset="0" max-vertical-offset="610">
@@ -1002,29 +1197,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.14383562" vertical-offset="0" max-vertical-offset="876">
           <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/org.ambientdynamix-Datatypes/src/main/java/org/ambientdynamix/contextplugins/IMyPairedBluetoothInfo.java">
+    <entry file="file://$PROJECT_DIR$/org.ambientdynamix-TestApp/src/main/java/org/ambientdynamix/contextplugins/PluginInvoker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36363637" vertical-offset="0" max-vertical-offset="594">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/org.ambientdynamix-Datatypes/src/main/java/org/ambientdynamix/contextplugins/ScanResultCustom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.63646406" vertical-offset="0" max-vertical-offset="1080">
-          <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/org.ambientdynamix-Datatypes/src/main/java/org/ambientdynamix/contextplugins/MyWiFiInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1314">
-          <caret line="15" column="31" selection-start-line="15" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="1680">
+          <caret line="37" column="120" selection-start-line="37" selection-start-column="113" selection-end-line="37" selection-end-column="120" />
           <folding />
         </state>
       </provider>
@@ -1037,53 +1216,110 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/org.ambientdynamix-TestApp/src/main/java/org/ambientdynamix/contextplugins/PluginInvoker.java">
+    <entry file="file://$PROJECT_DIR$/org.ambientdynamix-Datatypes/src/main/java/org/ambientdynamix/contextplugins/IMyWiFiInfo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2016">
-          <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/org.ambientdynamix-Datatypes/src/main/java/org/ambientdynamix/contextplugins/MyPairedBluetoothInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="573" max-vertical-offset="1422">
-          <caret line="90" column="5" selection-start-line="88" selection-start-column="3" selection-end-line="90" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/org.ambientdynamix-Datatypes/src/main/java/org/ambientdynamix/contextplugins/MyBluetoothInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.87090164" vertical-offset="554" max-vertical-offset="1800">
-          <caret line="100" column="40" selection-start-line="100" selection-start-column="37" selection-end-line="100" selection-end-column="40" />
+        <state vertical-scroll-proportion="0.252809" vertical-offset="0" max-vertical-offset="534">
+          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/org.ambientdynamix-Core/src/main/resources/org.ambientdynamixDescriptor.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="756">
-          <caret line="30" column="75" selection-start-line="30" selection-start-column="75" selection-end-line="30" selection-end-column="75" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="78" max-vertical-offset="630">
+          <caret line="23" column="75" selection-start-line="23" selection-start-column="75" selection-end-line="23" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/org.ambientdynamix-Datatypes/src/main/java/org/ambientdynamix/contextplugins/ScanResultCustom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1665">
+          <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+            <element signature="e#541#542#0" expanded="true" />
+            <element signature="e#1394#1395#0" expanded="true" />
+            <element signature="e#1422#1423#0" expanded="true" />
+            <element signature="e#1464#1465#0" expanded="true" />
+            <element signature="e#1498#1499#0" expanded="true" />
+            <element signature="e#1529#1530#0" expanded="true" />
+            <element signature="e#1556#1557#0" expanded="true" />
+            <element signature="e#1596#1597#0" expanded="true" />
+            <element signature="e#1628#1629#0" expanded="true" />
+            <element signature="e#1667#1668#0" expanded="true" />
+            <element signature="e#1702#1703#0" expanded="true" />
+            <element signature="e#1758#1759#0" expanded="true" />
+            <element signature="e#1806#1807#0" expanded="true" />
+            <element signature="e#2630#2631#0" expanded="true" />
+            <element signature="e#2654#2655#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/org.ambientdynamix-TestApp/src/main/java/org/ambientdynamix/contextplugins/BindDynamixActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-142.5" vertical-offset="450" max-vertical-offset="5115">
+          <caret line="74" column="57" selection-start-line="74" selection-start-column="57" selection-end-line="74" selection-end-column="57" />
+          <folding>
+            <element signature="e#8199#9953#0" expanded="true" />
+            <element signature="e#9946#9947#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/org.ambientdynamix-Datatypes/src/main/java/org/ambientdynamix/contextplugins/MyWiFiInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="336" max-vertical-offset="1185">
+          <caret line="35" column="11" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
+          <folding>
+            <element signature="e#1332#1333#0" expanded="true" />
+            <element signature="e#1367#1368#0" expanded="true" />
+            <element signature="e#1429#1430#0" expanded="true" />
+            <element signature="e#1477#1478#0" expanded="true" />
+            <element signature="e#1593#1601#0" expanded="true" />
+            <element signature="e#2254#2255#0" expanded="true" />
+            <element signature="e#2296#2297#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/org.ambientdynamix-Datatypes/src/main/java/org/ambientdynamix/contextplugins/MyBluetoothInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="1500">
+          <caret line="37" column="26" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/org.ambientdynamix-Datatypes/src/main/java/org/ambientdynamix/contextplugins/IMyPairedBluetoothInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/org.ambientdynamix-Datatypes/src/main/java/org/ambientdynamix/contextplugins/MyPairedBluetoothInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1155">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/org.ambientdynamix-Core/src/main/java/org/ambientdynamix/contextplugins/AmbientDynamixRuntime.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2065" max-vertical-offset="3438">
-          <caret line="179" column="75" selection-start-line="179" selection-start-column="75" selection-end-line="179" selection-end-column="75" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/org.ambientdynamix-TestApp/src/main/java/org/ambientdynamix/contextplugins/BindDynamixActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.79297596" vertical-offset="2145" max-vertical-offset="6102">
-          <caret line="175" column="21" selection-start-line="175" selection-start-column="21" selection-end-line="175" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.5570839" vertical-offset="0" max-vertical-offset="2910">
+          <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
           <folding>
-            <element signature="e#3378#4646#0" expanded="true" />
-            <element signature="e#4611#4612#0" expanded="true" />
+            <element signature="e#2448#3849#0" expanded="true" />
+            <element signature="e#2956#2974#0" expanded="true" />
+            <element signature="e#3842#3843#0" expanded="true" />
+            <element signature="e#7537#7554#0" expanded="true" />
           </folding>
         </state>
       </provider>
